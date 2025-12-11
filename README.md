@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/santscoder-masterworks/assets/blob/main/banner-masterworks.png" 
-       alt="SantsCoder Masterworks Banner" width="100%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/Banner-Youtube.png" 
+       alt="SantsCoder404 Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-masterworks/assets/blob/main/divider.png" width="100%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 <h1 align="center">SantsCoder Masterworks</h1>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-masterworks/assets/blob/main/showcase.png" width="80%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/template-2.png" width="80%" />
 </p>
 
 ---
@@ -48,7 +48,8 @@ Here you'll find:
 Small ideas become **real experiences** here.
 
 <p align="center">
-  <img src="https://github.com/santscoder-masterworks/assets/blob/main/feature.gif" width="80%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/glitch.gif" 
+       alt="Glitch Animation" width="80%" />
 </p>
 
 ---
@@ -74,7 +75,8 @@ Here live the projects that go beyond the simple:
 - More masterworks on the way…
 
 <p align="center">
-  <img src="https://github.com/santscoder-masterworks/assets/blob/main/gallery.png" width="80%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/divider.gif" 
+       alt="Divider Animation" width="80%" />
 </p>
 
 ---
@@ -106,7 +108,8 @@ These projects aren’t quick —
 They are **crafted**.
 
 <p align="center">
-  <img src="https://github.com/santscoder-masterworks/assets/blob/main/marker.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/template-1.png" 
+       alt="Glitch Bar" width="80%" />
 </p>
 
 ---
@@ -154,7 +157,8 @@ Then **SantsCoder Masterworks** is where you belong.
 - **SantsCoder Labs (Micro Projects):** https://github.com/santscoder-labs  
 
 <p align="center">
-  <img src="https://github.com/santscoder-masterworks/assets/blob/main/footer.gif" width="60%" />
+ <img src="https://github.com/santscoder-labs/assets/blob/main/gif-santscoder.gif" 
+       alt="Glitch Footer" width="60%" />
 </p>
 
 <h2 align="center">
@@ -164,5 +168,5 @@ Then **SantsCoder Masterworks** is where you belong.
 </h2>
 
 <p align="center">
-  <img src="https://github.com/santscoder-masterworks/assets/blob/main/divider.png" width="100%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
