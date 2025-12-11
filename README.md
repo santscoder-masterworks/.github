@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/santscoder-masterworks/assets/blob/main/banner-masterworks.png"
+  <img src="https://github.com/santscoder-masterworks/assets/blob/main/banner-masterworks.png" 
        alt="SantsCoder Masterworks Banner" width="100%" />
 </p>
 
@@ -33,7 +33,7 @@ Aqui você encontra:
 - Projetos com múltiplas telas, lógica e interações  
 - Conteúdo pensado para vídeos longos e aulas completas  
 
-É onde as ideias pequenas viram **experiências de verdade**.
+É onde ideias pequenas viram **experiências reais**.
 
 ### **EN:**  
 The **main SantsCoder studio**, dedicated to larger, complex, and highly visual projects.  
@@ -45,7 +45,7 @@ Here you'll find:
 - Multi-screen, logic-heavy interactions  
 - Content designed for long-form videos and full lessons  
 
-This is where small ideas become **full experiences**.
+Small ideas become **real experiences** here.
 
 <p align="center">
   <img src="https://github.com/santscoder-masterworks/assets/blob/main/feature.gif" width="80%" />
@@ -59,19 +59,19 @@ This is where small ideas become **full experiences**.
 Aqui vivem os projetos que vão além do simples:
 
 - **Color Shift Interface** (Project #01)  
-- **Temas dinâmicos aplicados em tempo real**  
-- **Carrosséis avançados com lógica interativa**  
-- **Sistemas visuais completos e personalizáveis**  
-- E mais obras em desenvolvimento...
+- Temas dinâmicos aplicados em tempo real  
+- Carrosséis avançados com lógica interativa  
+- Sistemas visuais completos e personalizáveis  
+- Mais obras chegando…
 
 ### **EN:**  
 Here live the projects that go beyond the simple:
 
 - **Color Shift Interface** (Project #01)  
-- **Real-time dynamic theming systems**  
-- **Advanced carousels with interactive logic**  
-- **Full visual and customizable systems**  
-- And more masterworks coming soon...
+- Real-time thematic changes  
+- Advanced interactive carousels  
+- Complete and customizable visual systems  
+- More masterworks on the way…
 
 <p align="center">
   <img src="https://github.com/santscoder-masterworks/assets/blob/main/gallery.png" width="80%" />
@@ -90,7 +90,7 @@ O objetivo é criar projetos que:
 - Unam arte + código  
 - Mostrem o poder do Front-End moderno  
 
-Esses projetos não são rápidos.  
+Esses projetos não são rápidos —  
 Eles são **lapidados**.
 
 ### **EN:**  
@@ -102,7 +102,7 @@ The goal is to create projects that:
 - Fuse art + code  
 - Showcase the power of modern Front-End  
 
-These projects aren’t quick.  
+These projects aren’t quick —  
 They are **crafted**.
 
 <p align="center">
@@ -114,11 +114,11 @@ They are **crafted**.
 ## ➤ Tecnologias Utilizadas / Technologies Used
 
 - HTML  
-- CSS (animations, theming, layout systems)  
-- JavaScript (logic, dynamic rendering, interactivity)  
+- CSS (Animations, theming systems, full-page concepts)  
+- JavaScript (logic, DOM rendering, interactivity)  
 - Canvas API  
-- Component systems  
-- Full-page transitions & advanced UI techniques  
+- UI/UX experimental techniques  
+- Component logic & transitions  
 
 ---
 
@@ -130,10 +130,10 @@ Se você busca:
 ✔ projetos complexos  
 ✔ interfaces completas  
 ✔ experiências visuais profundas  
-✔ aulas longas e detalhadas  
-✔ estética única e carregada de estilo  
+✔ aulas longas e ricas em conteúdo  
+✔ estética única e cinematográfica  
 
-Então o **SantsCoder Masterworks** é onde você deve estar.
+Então o **SantsCoder Masterworks** é o lugar certo.
 
 ### **EN:**  
 If you want:
@@ -141,8 +141,8 @@ If you want:
 ✔ complex projects  
 ✔ complete interfaces  
 ✔ deep visual experiences  
-✔ long, detailed lessons  
-✔ unique, stylized aesthetics  
+✔ long, content-rich lessons  
+✔ a unique, cinematic aesthetic  
 
 Then **SantsCoder Masterworks** is where you belong.
 
@@ -151,17 +151,17 @@ Then **SantsCoder Masterworks** is where you belong.
 ## ➤ Links Importantes / Important Links
 
 - **YouTube (SantsCoder):** https://youtube.com/@santscoder404  
-- **Labs (Micro Projects):** https://github.com/santscoder-labs  
+- **SantsCoder Labs (Micro Projects):** https://github.com/santscoder-labs  
 
 <p align="center">
   <img src="https://github.com/santscoder-masterworks/assets/blob/main/footer.gif" width="60%" />
 </p>
 
-<p align="center">
-  <b>PT-BR:</b> Bem-vindo à coleção de obras-primas.  
+<h2 align="center">
+  <b>PT-BR:</b> Bem-vindo às obras-primas.  
   <br>
   <b>EN:</b> Welcome to the Masterworks collection.
-</p>
+</h2>
 
 <p align="center">
   <img src="https://github.com/santscoder-masterworks/assets/blob/main/divider.png" width="100%" />
