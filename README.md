@@ -48,8 +48,8 @@ Here you'll find:
 Small ideas become **real experiences** here.
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/glitch.gif" 
-       alt="Glitch Animation" width="80%" />
+  <img src="" 
+       alt="" width="80%" />
 </p>
 
 ---
@@ -75,8 +75,8 @@ Here live the projects that go beyond the simple:
 - More masterworks on the way…
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/divider.gif" 
-       alt="Divider Animation" width="80%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/shift-color-gif.gif" 
+       alt="Shift Color Vídeo" width="80%" />
 </p>
 
 ---
