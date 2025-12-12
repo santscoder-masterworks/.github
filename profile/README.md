@@ -70,11 +70,6 @@ Here live the projects that go beyond the simple:
 - Complete and customizable visual systems  
 - More masterworks on the way…
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/shift-color-gif.gif" 
-       alt="Shift Color Vídeo" width="80%" />
-</p>
-
 ---
 
 ## ➤ Filosofia Masterworks / Masterworks Philosophy
@@ -149,13 +144,13 @@ Then **SantsCoder Masterworks** is where you belong.
 
 ## ➤ Links Importantes / Important Links
 
+<p align="center">
+ <img src="https://github.com/santscoder-labs/assets/blob/main/subscribe.png" 
+       alt="Glitch Footer" width="60%" />
+</p
+  
 - **YouTube (SantsCoder):** https://youtube.com/@santscoder404  
 - **SantsCoder Labs (Micro Projects):** https://github.com/santscoder-labs  
-
-<p align="center">
- <img src="https://github.com/santscoder-labs/assets/blob/main/gif-santscoder.gif" 
-       alt="Glitch Footer" width="60%" />
-</p>
 
 <h2 align="center">
   <b>PT-BR:</b> Bem-vindo às obras-primas.  
