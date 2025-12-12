@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/Banner-Youtube.png" 
+  <img src="https://github.com/santscoder-labs/assets/blob/main/SantsCoder-MasterWorks.png" 
        alt="SantsCoder404 Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 <h1 align="center">SantsCoder Masterworks</h1>
@@ -166,7 +162,3 @@ Then **SantsCoder Masterworks** is where you belong.
   <br>
   <b>EN:</b> Welcome to the Masterworks collection.
 </h2>
-
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
