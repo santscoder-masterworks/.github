@@ -98,11 +98,6 @@ The goal is to create projects that:
 These projects aren’t quick —  
 They are **crafted**.
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/template-1.png" 
-       alt="Glitch Bar" width="80%" />
-</p>
-
 ---
 
 ## ➤ Tecnologias Utilizadas / Technologies Used
