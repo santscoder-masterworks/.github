@@ -11,10 +11,6 @@
   <b>EN:</b> Long-form projects, complete interfaces, and deep Front-End experiences — built to explore aesthetics, technique, and immersion.
 </p>
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/template-2.png" width="80%" />
-</p>
-
 ---
 
 ## ➤ O que é o SantsCoder Masterworks? / What is SantsCoder Masterworks?
